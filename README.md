@@ -12,19 +12,25 @@ Scenarios for testing npm and npm-compatible registries (like Verdaccio)
 
 <img src="assets/images/registry-test-org-owner-256.png" alt="Owner: Olivia Ortega" style="width:128px;height:128px;" />
 
-Olivia Ortega
+Olivia Ortega 
+[![GitHub Profile](assets/images/github-xs.png 'GitHub Profile')](https://github.com/rt-owner)
+[![NPM Profile](assets/images/npm-xs.png 'NPM Profile')](https://www.npmjs.com/~rt-owner)
 
 ### Maintainer
 
 <img src="assets/images/registry-test-org-maintainer-256.png" alt="Maintainer: Mark Miller" style="width:128px;height:128px;" />
 
 Mark Miller
+[![GitHub Profile](assets/images/github-xs.png 'GitHub Profile')](https://github.com/rt-maintainer)
+[![NPM Profile](assets/images/npm-xs.png 'NPM Profile')](https://www.npmjs.com/~rt-maintainer)
 
 ### Contributor
 
 <img src="assets/images/registry-test-org-contributor-256.png" alt="Contributor: Cindy Collins" style="width:128px;height:128px;" />
 
 Cindy Collins
+[![GitHub Profile](assets/images/github-xs.png 'GitHub Profile')](https://github.com/rt-contributors)
+[![NPM Profile](assets/images/npm-xs.png 'NPM Profile')](https://www.npmjs.com/~rt-contributor)
 
 ## NPM
 
