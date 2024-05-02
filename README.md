@@ -6,35 +6,59 @@
 
 Scenarios for testing npm and npm-compatible registries (like Verdaccio)
 
-## GitHub Organization 
+## The Team
 
 ### Owner
 
-<img src="assets/images/registry-test-org-owner-256.png" alt="Owner: Olivia Ortega" style="width:128px;height:128px;" />
+<img src="assets/images/registry-test-org-owner-256.png" alt="Owner: Olivia Ortega" style="width:128px;height:128px;" /> 
 
 Olivia Ortega 
-[![GitHub Profile](assets/images/github-xs.png 'GitHub Profile')](https://github.com/rt-owner)
-[![NPM Profile](assets/images/npm-xs.png 'NPM Profile')](https://www.npmjs.com/~rt-owner)
+<a href="https://github.com/rt-owner"><img src="assets/images/github-xs.png" alt="Owner" style="width:20px;height:20px;" /></a>
+<a href="https://www.npmjs.com/~rt-owner"><img src="assets/images/npm-xs.png" alt="Owner" style="width:20px;height:20px;" /></a>
 
 ### Maintainer
 
 <img src="assets/images/registry-test-org-maintainer-256.png" alt="Maintainer: Mark Miller" style="width:128px;height:128px;" />
 
 Mark Miller
-[![GitHub Profile](assets/images/github-xs.png 'GitHub Profile')](https://github.com/rt-maintainer)
-[![NPM Profile](assets/images/npm-xs.png 'NPM Profile')](https://www.npmjs.com/~rt-maintainer)
+<a href="https://github.com/rt-maintainer"><img src="assets/images/github-xs.png" alt="Maintainer" style="width:20px;height:20px;" /></a>
+<a href="https://www.npmjs.com/~rt-maintainer"><img src="assets/images/npm-xs.png" alt="Maintainer" style="width:20px;height:20px;" /></a>
 
 ### Contributor
 
 <img src="assets/images/registry-test-org-contributor-256.png" alt="Contributor: Cindy Collins" style="width:128px;height:128px;" />
 
 Cindy Collins
-[![GitHub Profile](assets/images/github-xs.png 'GitHub Profile')](https://github.com/rt-contributors)
-[![NPM Profile](assets/images/npm-xs.png 'NPM Profile')](https://www.npmjs.com/~rt-contributor)
+<a href="https://github.com/rt-contributors"><img src="assets/images/github-xs.png" alt="Contributor" style="width:20px;height:20px;" /></a>
+<a href="https://www.npmjs.com/~rt-contributor"><img src="assets/images/npm-xs.png" alt="Contributor" style="width:20px;height:20px;" /></a>
+
+## GitHub
+
+<img src="assets/images/team-256.png" alt="Team" style="width:128px;height:128px;" />
+
+Organization <a href="https://github.com/registrytest"><img src="assets/images/github-xs.png" alt="Organization" style="width:20px;height:20px;" /></a>
+
+<img src="assets/images/website-256.png" alt="Website Repository" style="width:128px;height:128px;" />
+
+Website <a href="https://github.com/registrytest/website"><img src="assets/images/github-xs.png" alt="Website Repository" style="width:20px;height:20px;" /></a>
+
+<img src="assets/images/package-256.png" alt="Package Repository" style="width:128px;height:128px;" />
+
+Package <a href="https://github.com/registrytest/package"><img src="assets/images/github-xs.png" alt="Package Repository" style="width:20px;height:20px;" /></a>
 
 ## NPM
 
-[NPM Organization](https://www.npmjs.com/org/registrytest)
+<img src="assets/images/team-256.png" alt="Team" style="width:128px;height:128px;" />
+
+Organization <a href="https://www.npmjs.com/registrytest"><img src="assets/images/npm-xs.png" alt="Organization" style="width:20px;height:20px;" /></a>
+
+<img src="assets/images/package-256.png" alt="NPM Package" style="width:128px;height:128px;" />
+
+Package <a href="https://www.npmjs.com/@registrytest/package"><img src="assets/images/npm-xs.png" alt="NPM Package" style="width:20px;height:20px;" /></a>
+
+<img src="assets/images/packument-256.png" alt="NPM Packument" style="width:128px;height:128px;" />
+
+Packument <a href="https://registry.npmjs.com/@registrytest/package"><img src="assets/images/npm-xs.png" alt="NPM Packument" style="width:20px;height:20px;" /></a>
 
 ## About
 
