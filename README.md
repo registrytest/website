@@ -6,6 +6,8 @@
 
 Scenarios for testing npm and npm-compatible registries (like Verdaccio)
 
+[www.registrytest.org](https://www.registrytest.org)
+
 ## The Team
 
 ### Owner
